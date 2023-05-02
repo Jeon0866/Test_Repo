@@ -1,5 +1,5 @@
 # Code Peer Review Templete
-- 제출팀 : 
+- 코더 : 
 - 리뷰어 : 
 
 
