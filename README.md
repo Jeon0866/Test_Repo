@@ -1,6 +1,3 @@
-# Test_Repo
-This is a repository for testing on GitHub.
-
 # Code Peer Review Templete
 ---
 - 제출팀 : 
